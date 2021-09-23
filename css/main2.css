@@ -120,6 +120,10 @@ body {
     width: 150px;
 }
 
+.imagens:hover {
+    text-shadow: 0px 0px 3px #FFFFFF;
+}
+
 .imagens img {
     width: 100%;
     height: auto;
@@ -135,4 +139,8 @@ body {
     font-size: 21px;
     line-height: 21px;
     color: #FFFFFF;
+}
+
+.desc:hover {
+    text-shadow: 0px 0px 3px #FFFFFF;
 }
